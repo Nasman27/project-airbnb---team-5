@@ -1,4 +1,6 @@
 # project airbnb - team 5
+
+Go to 'project 1- airbnb team- Final.ipynb' for final jupyter notebook and 'UofT Data Bootcamp Project 1-Final version.pptx' for the powerpoint presentation. 
  
 Purpose: Conduct an analysis of various factors by Airbnb (in New York City) to identify trends that impact customer spending.
 
